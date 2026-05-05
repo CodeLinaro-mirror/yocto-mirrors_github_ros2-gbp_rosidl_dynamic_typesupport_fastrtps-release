@@ -2,6 +2,9 @@
 Changelog for package rosidl_dynamic_typesupport_fastrtps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.0 (2026-05-05)
+------------------
+
 0.5.1 (2025-11-21)
 ------------------
 * Merge pull request `#11 <https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps/issues/11>`_ from mosfet80/patch-1
