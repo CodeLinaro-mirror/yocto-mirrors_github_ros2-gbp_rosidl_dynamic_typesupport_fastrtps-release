@@ -1,3 +1,26 @@
+## rosidl_dynamic_typesupport_fastrtps (rolling) - 0.6.1-1
+
+The packages in the `rosidl_dynamic_typesupport_fastrtps` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling rosidl_dynamic_typesupport_fastrtps` on `Tue, 03 Nov 2026 12:24:46 -0000`
+
+The `rosidl_dynamic_typesupport_fastrtps` package was released.
+
+Version of package(s) in repository `rosidl_dynamic_typesupport_fastrtps`:
+
+- upstream repository: https://github.com/ros2/rosidl_dynamic_typesupport_fastrtps.git
+- release repository: https://github.com/ros2-gbp/rosidl_dynamic_typesupport_fastrtps-release.git
+- rosdistro version: `0.6.0-1`
+- old version: `0.6.0-1`
+- new version: `0.6.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_dynamic_typesupport_fastrtps (rolling) - 0.6.0-1
 
 The packages in the `rosidl_dynamic_typesupport_fastrtps` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rosidl_dynamic_typesupport_fastrtps` on `Tue, 05 May 2026 17:33:54 -0000`
